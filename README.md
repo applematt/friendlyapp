@@ -1,3 +1,4 @@
+[![Django CI](https://github.com/applematt/friendlyapp/actions/workflows/django.yml/badge.svg)](https://github.com/applematt/friendlyapp/actions/workflows/django.yml)
 
 # Friendly App
 

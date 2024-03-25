@@ -27,4 +27,4 @@ jobs:
         pip install -r ./friendly/requirements.txt
     - name: Run Tests
       run: |
-        python manage.py test
+        python ./friendly/manage.py test
